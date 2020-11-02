@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+Welcome to WangLili's page,nice to meet you!!!
+I bless the day I found you.
+姓名：
+    王莉莉
+性别：
+    女
+国籍：
+    中国
+所学专业：
+    工业设计
+所在班级：
+    工业设计2班
+现任职位：
+    工设2班组织委员
+性格特点：
+    活泼开朗有活力、善良、热情真诚......（哦嚯 “聪明”勇敢没力气，我真的“羡慕”我自己...)and(确认过眼神  是憨憨本人）
+爱好：
+    旅游、逛gai、吃吃喝喝、走走停停、听音乐、看电影、运功......[but,对于他们我都没有特别浓厚的兴趣（旅行除外）]
+特长:
+    特长这种事情貌似不太适合我。。。（目前在学习播音与主持，学完后应该会成为我的特长)
+教育经历：
+    广东省中山市东升镇太平村太平小学---贵州省铜仁市思南县合朋溪镇王家沟小学---贵州省铜仁市思南县合朋溪中学---贵州省思南中学---南京理工大学
+Sometimes ever,sometimes never.
+    
+    
 
-You can use the [editor on GitHub](https://github.com/rena955/-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rena955/-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
