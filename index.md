@@ -20,5 +20,5 @@
 #### *特长这种事情貌似不太适合我。。。（目前在学习播音与主持，学完后应该会成为我的特长)*
 ## 10.教育经历：
 #### *广东省中山市东升镇太平村太平小学---贵州省铜仁市思南县合朋溪镇王家沟小学---贵州省铜仁市思南县合朋溪中学---贵州省思南中学---南京理工大学*
-# Sometimes ever,sometimes never.Thank you for your time.
-`
+# `<Sometimes ever,sometimes never.Thank you for your time.>`
+
